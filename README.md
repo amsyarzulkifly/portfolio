@@ -2,4 +2,4 @@
 
 My personal portfolio website that is developed with **HTML/CSS/JS** and deployed using **GitHub Pages**.  
 
-🌐 **Live Demo:** [Amsyar Zulkifly | Portfolio](https://amsyarzulkifly.github.io/portfolio/)
+<a href="https://amsyarzulkifly.github.io/portfolio/" target="_blank">Amsyar Zulkifly | Portfolio</a>
